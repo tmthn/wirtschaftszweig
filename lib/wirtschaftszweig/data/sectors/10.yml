@@ -1,0 +1,61 @@
+---
+10  Herstellung von Nahrungs- und Futtermitteln  
+10.1  Schlachten und Fleischverarbeitung   
+10.11 Schlachten (ohne Schlachten von Geflügel) 1010*
+10.11.0 Schlachten (ohne Schlachten von Geflügel) 
+10.12 Schlachten von Geflügel 1010*
+10.12.0 Schlachten von Geflügel 
+10.13 Fleischverarbeitung 1010*
+10.13.0 Fleischverarbeitung 
+10.2  Fischverarbeitung  
+10.20 Fischverarbeitung 1020
+10.20.0 Fischverarbeitung 
+10.3  Obst- und Gemüseverarbeitung   
+10.31 Kartoffelverarbeitung 1030*
+10.31.0 Kartoffelverarbeitung 
+10.32 Herstellung von Frucht- und Gemüsesäften  1030*
+10.32.0 Herstellung von Frucht- und Gemüsesäften  
+10.39 Sonstige Verarbeitung von Obst und Gemüse 1030*
+10.39.0 Sonstige Verarbeitung von Obst und Gemüse 
+10.4  Herstellung von pflanzlichen und tierischen Ölen und Fetten  
+10.41 Herstellung von Ölen und Fetten (ohne Margarine u.ä. Nahrungsfette) 1040*
+10.41.0 Herstellung von Ölen und Fetten (ohne Margarine u.ä. Nahrungsfette) 
+10.42 Herstellung von Margarine u. ä. Nahrungsfetten  1040*
+10.42.0 Herstellung von Margarine u. ä. Nahrungsfetten  
+10.5  Milchverarbeitung  
+10.51 Milchverarbeitung (ohne Herstellung von Speiseeis)  1050*
+10.51.0 Milchverarbeitung (ohne Herstellung von Speiseeis)  
+10.52 Herstellung von Speiseeis 1050*
+10.52.0 Herstellung von Speiseeis 
+10.6  Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen   
+10.61 Mahl- und Schälmühlen 1061
+10.61.0 Mahl- und Schälmühlen 
+10.62 Herstellung von Stärke und Stärkeerzeugnissen 1062
+10.62.0 Herstellung von Stärke und Stärkeerzeugnissen 
+10.7  Herstellung von Back- und Teigwaren  
+10.71 Herstellung von Backwaren (ohne Dauerbackwaren) 1071*
+10.71.0 Herstellung von Backwaren (ohne Dauerbackwaren) 
+10.72 Herstellung von Dauerbackwaren  1071*
+10.72.0 Herstellung von Dauerbackwaren  
+10.73 Herstellung von Teigwaren 1074
+10.73.0 Herstellung von Teigwaren 
+10.8  Herstellung von sonstigen Nahrungsmitteln  
+10.81 Herstellung von Zucker  1072
+10.81.0 Herstellung von Zucker  
+10.82 Herstellung von Süßwaren (ohne Dauerbackwaren)  1073
+10.82.0 Herstellung von Süßwaren (ohne Dauerbackwaren)  
+10.83 Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz  1079*
+10.83.0 Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz  
+10.84 Herstellung von Würzmitteln und Soßen 1079*
+10.84.0 Herstellung von Würzmitteln und Soßen 
+10.85 Herstellung von Fertiggerichten 1075
+10.85.0 Herstellung von Fertiggerichten 
+10.86 Herstellung von homogenisierten und diätetischen Nahrungsmitteln  1079*
+10.86.0 Herstellung von homogenisierten und diätetischen Nahrungsmitteln  
+10.89 Herstellung von sonstigen Nahrungsmitteln a. n. g.  1079*
+10.89.0 Herstellung von sonstigen Nahrungsmitteln a. n. g.  
+10.9  Herstellung von Futtermitteln  
+10.91 Herstellung von Futtermitteln für Nutztiere 1080*
+10.91.0 Herstellung von Futtermitteln für Nutztiere 
+10.92 Herstellung von Futtermitteln für sonstige Tiere  1080*
+10.92.0 Herstellung von Futtermitteln für sonstige Tiere  

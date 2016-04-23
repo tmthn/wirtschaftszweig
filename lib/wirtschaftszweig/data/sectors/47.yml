@@ -1,0 +1,103 @@
+---
+47  Einzelhandel (ohne Handel mit Kraftfahrzeugen)   
+47.1  Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen)   
+47.11 Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungs- und Genussmittel, Getränke und Tabakwaren 4711
+47.11.1 Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt 
+47.11.2 Sonstiger Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungs- und Genussmittel, Getränke und Tabakwaren 
+47.19 Sonstiger Einzelhandel mit Waren verschiedener Art  4719
+47.19.1 Einzelhandel mit Waren verschiedener Art (ohne Nahrungsmittel)  
+47.19.2 Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nicht-Nahrungsmittel  
+47.2  Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren (in Verkaufsräumen)   
+47.21 Einzelhandel mit Obst, Gemüse und Kartoffeln  4721*
+47.21.0 Einzelhandel mit Obst, Gemüse und Kartoffeln  
+47.22 Einzelhandel mit Fleisch und Fleischwaren   4721*
+47.22.0 Einzelhandel mit Fleisch und Fleischwaren   
+47.23 Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen  4721*
+47.23.0 Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen  
+47.24 Einzelhandel mit Back- und Süßwaren   4721*
+47.24.0 Einzelhandel mit Back- und Süßwaren   
+47.25 Einzelhandel mit Getränken  4722
+47.25.0 Einzelhandel mit Getränken  
+47.26 Einzelhandel mit Tabakwaren   4723
+47.26.0 Einzelhandel mit Tabakwaren   
+47.29 Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln  4721*
+47.29.0 Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln  
+47.3  Einzelhandel mit Motorenkraftstoffen (Tankstellen)   
+47.30 Einzelhandel mit Motorenkraftstoffen (Tankstellen)  4730
+47.30.1 Einzelhandel in fremdem Namen mit Motorenkraftstoffen (Agenturtankstellen)  
+47.30.2 Einzelhandel in eigenem Namen mit Motorenkraftstoffen (Freie Tankstellen) 
+47.4  Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen)   
+47.41 Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software   4741*
+47.41.0 Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software   
+47.42 Einzelhandel mit Telekommunikationsgeräten  4741*
+47.42.0 Einzelhandel mit Telekommunikationsgeräten  
+47.43 Einzelhandel mit Geräten der Unterhaltungselektronik  4742
+47.43.0 Einzelhandel mit Geräten der Unterhaltungselektronik  
+47.5  Einzelhandel mit sonstigen Haushaltsgeräten, Textilien, Heimwerker- und Einrichtungsbedarf (in Verkaufsräumen)   
+47.51 Einzelhandel mit Textilien  4751
+47.51.0 Einzelhandel mit Textilien  
+47.52 Einzelhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf  4752
+47.52.1 Einzelhandel mit Metall- und Kunststoffwaren a. n. g. 
+47.52.3 Einzelhandel mit Anstrichmitteln, Bau- und Heimwerkerbedarf 
+47.53 Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten  4753
+47.53.0 Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten  
+47.54 Einzelhandel mit elektrischen Haushaltsgeräten  4759*
+47.54.0 Einzelhandel mit elektrischen Haushaltsgeräten  
+47.59 Einzelhandel mit Möbeln, Einrichtungsgegenständen und sonstigem Hausrat 4759*
+47.59.1 Einzelhandel mit Wohnmöbeln 
+47.59.2 Einzelhandel mit keramischen Erzeugnissen und Glaswaren 
+47.59.3 Einzelhandel mit Musikinstrumenten und Musikalien 
+47.59.9 Einzelhandel mit Haushaltsgegenständen a. n. g. 
+47.6  Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in Verkaufsräumen)  
+47.61 Einzelhandel mit Büchern  4761*
+47.61.0 Einzelhandel mit Büchern  
+47.62 Einzelhandel mit Zeitschriften, Zeitungen, Schreibwaren und Bürobedarf  4761*
+47.62.1 Einzelhandel mit Zeitschriften und  Zeitungen 
+47.62.2 Einzelhandel mit Schreib- und Papierwaren, Schul- und Büroartikeln  
+47.63 Einzelhandel mit bespielten Ton- und Bildträgern  4762
+47.63.0 Einzelhandel mit bespielten Ton- und Bildträgern  
+47.64 Einzelhandel mit Fahrrädern, Sport- und Campingartikeln 4763
+47.64.1 Einzelhandel mit Fahrrädern, Fahrradteilen und -zubehör 
+47.64.2 Einzelhandel mit Sport- und Campingartikeln (ohne Campingmöbel) 
+47.65 Einzelhandel mit Spielwaren   4764
+47.65.0 Einzelhandel mit Spielwaren   
+47.7  Einzelhandel mit sonstigen Gütern (in Verkaufsräumen)  
+47.71 Einzelhandel mit Bekleidung 4771*
+47.71.0 Einzelhandel mit Bekleidung 
+47.72 Einzelhandel mit Schuhen und Lederwaren   4771*
+47.72.1 Einzelhandel mit Schuhen  
+47.72.2 Einzelhandel mit Lederwaren und Reisegepäck 
+47.73 Apotheken 4772*
+47.73.0 Apotheken 
+47.74 Einzelhandel mit medizinischen und orthopädischen Artikeln  4772*
+47.74.0 Einzelhandel mit medizinischen und orthopädischen Artikeln  
+47.75 Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln  4772*
+47.75.0 Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln  
+47.76 Einzelhandel mit Blumen, Pflanzen, Sämereien, Düngemitteln, zoologischem Bedarf und lebenden Tieren 4773*
+47.76.1 Einzelhandel mit Blumen, Pflanzen, Sämereien und Düngemitteln 
+47.76.2 Einzelhandel mit zoologischem Bedarf und lebenden Tieren  
+47.77 Einzelhandel mit Uhren und Schmuck  4773*
+47.77.0 Einzelhandel mit Uhren und Schmuck  
+47.78 Sonstiger Einzelhandel in Verkaufsräumen (ohne Antiquitäten und Gebrauchtwaren) 4773*
+47.78.1 Augenoptiker  
+47.78.2 Einzelhandel mit Foto- und optischen Erzeugnissen (ohne Augenoptiker) 
+47.78.3 Einzelhandel mit Kunstgegenständen, Bildern, kunstgewerblichen Erzeugnissen, Briefmarken, Münzen und Geschenkartikeln 
+47.78.9 Sonstiger Einzelhandel a. n. g. (in Verkaufsräumen) 
+47.79 Einzelhandel mit Antiquitäten und Gebrauchtwaren  4774
+47.79.1 Einzelhandel mit Antiquitäten und antiken Teppichen 
+47.79.2 Antiquariate  
+47.79.9 Einzelhandel mit sonstigen Gebrauchtwaren 
+47.8  Einzelhandel an Verkaufsständen und auf Märkten  
+47.81 Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und auf Märkten 4781
+47.81.0 Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und auf Märkten 
+47.82 Einzelhandel mit Textilien, Bekleidung und Schuhen an Verkaufsständen und auf Märkten 4782
+47.82.0 Einzelhandel mit Textilien, Bekleidung und Schuhen an Verkaufsständen und auf Märkten 
+47.89 Einzelhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten  4789
+47.89.0 Einzelhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten  
+47.9  Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten   
+47.91 Versand- und Internet-Einzelhandel  4791
+47.91.1 Versand- und Internet-Einzelhandel mit Textilien, Bekleidung, Schuhen und Lederwaren  
+47.91.9 Sonstiger Versand- und Internet-Einzelhandel  
+47.99 Sonstiger Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten  4799
+47.99.1 Einzelhandel vom Lager mit Brennstoffen 
+47.99.9 Sonstiger Einzelhandel a. n. g. (nicht in Verkaufsräumen) 
