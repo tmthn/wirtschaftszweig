@@ -1,23 +1,21 @@
 ---
-45  Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen   
-45.1  Handel mit Kraftwagen  
-45.11 Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger  4510*
-45.11.0 Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger  
-45.19 "Handel mit Kraftwagen mit einem Gesamtgewicht 
-von mehr als 3,5 t" 4510*
-45.19.0 "Handel mit Kraftwagen mit einem Gesamtgewicht 
-von mehr als 3,5 t" 
-45.2  Instandhaltung und Reparatur von Kraftwagen  
-45.20 Instandhaltung und Reparatur von Kraftwagen 4520
-45.20.1 Lackieren von Kraftwagen  
-45.20.2 Autowaschanlagen  
-45.20.3 Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger (ohne Lackierung und Autowäsche) 
-45.20.4 Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t (ohne Lackierung und Autowäsche) 
-45.3  Handel mit Kraftwagenteilen und -zubehör   
-45.31 Großhandel mit Kraftwagenteilen und -zubehör  4530*
-45.31.0 Großhandel mit Kraftwagenteilen und -zubehör  
-45.32 Einzelhandel mit Kraftwagenteilen und -zubehör  4530*
-45.32.0 Einzelhandel mit Kraftwagenteilen und -zubehör  
-45.4  Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern  
-45.40 Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern 4540
-45.40.0 Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern 
+'45': 'Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen'
+'451': 'Handel mit Kraftwagen'
+'4511': 'Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger'
+'45110': 'Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger'
+'4519': 'Handel mit Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t'
+'45190': 'Handel mit Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t'
+'452': 'Instandhaltung und Reparatur von Kraftwagen'
+'4520': 'Instandhaltung und Reparatur von Kraftwagen'
+'45201': 'Lackieren von Kraftwagen'
+'45202': 'Autowaschanlagen'
+'45203': 'Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger (ohne Lackierung und Autowäsche)'
+'45204': 'Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t (ohne Lackierung und Autowäsche)'
+'453': 'Handel mit Kraftwagenteilen und -zubehör'
+'4531': 'Großhandel mit Kraftwagenteilen und -zubehör'
+'45310': 'Großhandel mit Kraftwagenteilen und -zubehör'
+'4532': 'Einzelhandel mit Kraftwagenteilen und -zubehör'
+'45320': 'Einzelhandel mit Kraftwagenteilen und -zubehör'
+'454': 'Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern'
+'4540': 'Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern'
+'45400': 'Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern'

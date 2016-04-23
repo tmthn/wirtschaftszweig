@@ -1,8 +1,8 @@
 ---
-05  Kohlenbergbau  
-05.1  Steinkohlenbergbau   
-05.10 Steinkohlenbergbau  0510
-05.10.0 Steinkohlenbergbau  
-05.2  Braunkohlenbergbau   
-05.20 Braunkohlenbergbau  0520
-05.20.0 Braunkohlenbergbau  
+'05': 'Kohlenbergbau'  
+'051': 'Steinkohlenbergbau'   
+'0510': 'Steinkohlenbergbau'
+'05100': 'Steinkohlenbergbau'  
+'052': 'Braunkohlenbergbau'   
+'0520': 'Braunkohlenbergbau'
+'05200': 'Braunkohlenbergbau'  

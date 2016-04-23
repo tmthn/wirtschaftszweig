@@ -1,10 +1,10 @@
 ---
-51  Luftfahrt  
-51.1  Personenbeförderung in der Luftfahrt   
-51.10 Personenbeförderung in der Luftfahrt  5110
-51.10.0 Personenbeförderung in der Luftfahrt  
-51.2  Güterbeförderung in der Luftfahrt und Raumtransport  
-51.21 Güterbeförderung in der Luftfahrt 5120*
-51.21.0 Güterbeförderung in der Luftfahrt 
-51.22 Raumtransport 5120*
-51.22.0 Raumtransport 
+'51': 'Luftfahrt'
+'511': 'Personenbeförderung in der Luftfahrt'
+'5110': 'Personenbeförderung in der Luftfahrt'
+'51100': 'Personenbeförderung in der Luftfahrt'
+'512': 'Güterbeförderung in der Luftfahrt und Raumtransport'
+'5121': 'Güterbeförderung in der Luftfahrt'
+'51210': 'Güterbeförderung in der Luftfahrt'
+'5122': 'Raumtransport'
+'51220': 'Raumtransport'

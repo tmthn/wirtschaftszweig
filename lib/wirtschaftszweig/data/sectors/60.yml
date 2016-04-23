@@ -1,8 +1,8 @@
 ---
-60  Rundfunkveranstalter   
-60.1  Hörfunkveranstalter  
-60.10 Hörfunkveranstalter 6010
-60.10.0 Hörfunkveranstalter 
-60.2  Fernsehveranstalter  
-60.20 Fernsehveranstalter 6020
-60.20.0 Fernsehveranstalter 
+'60': 'Rundfunkveranstalter'
+'601': 'Hörfunkveranstalter'
+'6010': 'Hörfunkveranstalter'
+'60100': 'Hörfunkveranstalter'
+'602': 'Fernsehveranstalter'
+'6020': 'Fernsehveranstalter'
+'60200': 'Fernsehveranstalter'

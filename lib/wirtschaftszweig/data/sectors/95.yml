@@ -1,20 +1,20 @@
 ---
-95  Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern  
-95.1  Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten  
-95.11 Reparatur von Datenverarbeitungsgeräten und peripheren Geräten  9511
-95.11.0 Reparatur von Datenverarbeitungsgeräten und peripheren Geräten  
-95.12 Reparatur von Telekommunikationsgeräten 9512
-95.12.0 Reparatur von Telekommunikationsgeräten 
-95.2  Reparatur von Gebrauchsgütern  
-95.21 Reparatur von Geräten der Unterhaltungselektronik 9521
-95.21.0 Reparatur von Geräten der Unterhaltungselektronik 
-95.22 Reparatur von elektrischen Haushaltsgeräten und Gartengeräten 9522
-95.22.0 Reparatur von elektrischen Haushaltsgeräten und Gartengeräten 
-95.23 Reparatur von Schuhen und Lederwaren  9523
-95.23.0 Reparatur von Schuhen und Lederwaren  
-95.24 Reparatur von Möbeln und Einrichtungsgegenständen 9524
-95.24.0 Reparatur von Möbeln und Einrichtungsgegenständen 
-95.25 Reparatur von Uhren und Schmuck 9529*
-95.25.0 Reparatur von Uhren und Schmuck 
-95.29 Reparatur von sonstigen Gebrauchsgütern 9529*
-95.29.0 Reparatur von sonstigen Gebrauchsgütern 
+'95': 'Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern'
+'951': 'Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten'
+'9511': 'Reparatur von Datenverarbeitungsgeräten und peripheren Geräten'
+'95110': 'Reparatur von Datenverarbeitungsgeräten und peripheren Geräten'
+'9512': 'Reparatur von Telekommunikationsgeräten'
+'95120': 'Reparatur von Telekommunikationsgeräten'
+'952': 'Reparatur von Gebrauchsgütern'
+'9521': 'Reparatur von Geräten der Unterhaltungselektronik'
+'95210': 'Reparatur von Geräten der Unterhaltungselektronik' 
+'9522': 'Reparatur von elektrischen Haushaltsgeräten und Gartengeräten'
+'95220': 'Reparatur von elektrischen Haushaltsgeräten und Gartengeräten'
+'9523': 'Reparatur von Schuhen und Lederwaren'
+'95230': 'Reparatur von Schuhen und Lederwaren'
+'9524': 'Reparatur von Möbeln und Einrichtungsgegenständen'
+'95240': 'Reparatur von Möbeln und Einrichtungsgegenständen'
+'9525': 'Reparatur von Uhren und Schmuck'
+'95250': 'Reparatur von Uhren und Schmuck'
+'9529': 'Reparatur von sonstigen Gebrauchsgütern'
+'95290': 'Reparatur von sonstigen Gebrauchsgütern'

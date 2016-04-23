@@ -1,15 +1,15 @@
 ---
-96  Erbringung von sonstigen überwiegend persönlichen Dienstleistungen   
-96.0  Erbringung von sonstigen überwiegend persönlichen Dienstleistungen   
-96.01 Wäscherei und chemische Reinigung 9601
-96.01.0 Wäscherei und chemische Reinigung 
-96.02 Frisör- und Kosmetiksalons  9602
-96.02.1 Frisörsalons  
-96.02.2 Kosmetiksalons  
-96.03 Bestattungswesen  9603
-96.03.1 Bestattungsinstitute  
-96.03.2 Friedhöfe und Krematorien 
-96.04 Saunas, Solarien, Bäder u. Ä. 9609*
-96.04.0 Saunas, Solarien, Bäder u. Ä. 
-96.09 Erbringung von sonstigen Dienstleistungen a. n. g.  9609*
-96.09.0 Erbringung von sonstigen Dienstleistungen a. n. g.  
+'96': 'Erbringung von sonstigen überwiegend persönlichen Dienstleistungen'
+'960': 'Erbringung von sonstigen überwiegend persönlichen Dienstleistungen'
+'9601': 'Wäscherei und chemische Reinigung'
+'96010': 'Wäscherei und chemische Reinigung'
+'9602': 'Frisör- und Kosmetiksalons'
+'96021': 'Frisörsalons'
+'96022': 'Kosmetiksalons'
+'9603': 'Bestattungswesen'
+'96031': 'Bestattungsinstitute'
+'96032': 'Friedhöfe und Krematorien'
+'9604': 'Saunas, Solarien, Bäder u. Ä.'
+'96040': 'Saunas, Solarien, Bäder u. Ä.'
+'9609': 'Erbringung von sonstigen Dienstleistungen a. n. g.'
+'96090': 'Erbringung von sonstigen Dienstleistungen a. n. g.'

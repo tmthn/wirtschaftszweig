@@ -1,10 +1,10 @@
 ---
-72  Forschung und Entwicklung  
-72.1  Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin   
-72.11 Forschung und Entwicklung im Bereich Biotechnologie 7210*
-72.11.0 Forschung und Entwicklung im Bereich Biotechnologie 
-72.19 Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin 7210*
-72.19.0 Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin 
-72.2  Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften  
-72.20 Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften 7220
-72.20.0 Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften 
+'72': 'Forschung und Entwicklung'
+'721': 'Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin'
+'7211': 'Forschung und Entwicklung im Bereich Biotechnologie'
+'72110': 'Forschung und Entwicklung im Bereich Biotechnologie'
+'7219': 'Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin'
+'72190': 'Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin'
+'722': 'Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften'
+'7220': 'Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften'
+'72200': 'Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften' 

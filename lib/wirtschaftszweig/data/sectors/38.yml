@@ -1,17 +1,17 @@
 ---
-38  Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung   
-38.1  Sammlung von Abfällen  
-38.11 Sammlung nicht gefährlicher Abfälle 3811
-38.11.0 Sammlung nicht gefährlicher Abfälle 
-38.12 Sammlung gefährlicher Abfälle 3812
-38.12.0 Sammlung gefährlicher Abfälle 
-38.2  Abfallbehandlung und -beseitigung    
-38.21 Behandlung und Beseitigung nicht gefährlicher Abfälle 3821
-38.21.0 Behandlung und Beseitigung nicht gefährlicher Abfälle 
-38.22 Behandlung und Beseitigung gefährlicher Abfälle 3822
-38.22.0 Behandlung und Beseitigung gefährlicher Abfälle 
-38.3  Rückgewinnung  
-38.31 Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren 3830*
-38.31.0 Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren 
-38.32 Rückgewinnung sortierter Werkstoffe 3830*
-38.32.0 Rückgewinnung sortierter Werkstoffe 
+'38': 'Sammlung, Behandlung und Beseitigung von Abfällen; Rückgewinnung'
+'381': 'Sammlung von Abfällen'
+'3811': 'Sammlung nicht gefährlicher Abfälle'
+'38110': 'Sammlung nicht gefährlicher Abfälle'
+'3812': 'Sammlung gefährlicher Abfälle'
+'38120': 'Sammlung gefährlicher Abfälle'
+'382': 'Abfallbehandlung und -beseitigung'
+'3821': 'Behandlung und Beseitigung nicht gefährlicher Abfälle'
+'38210': 'Behandlung und Beseitigung nicht gefährlicher Abfälle'
+'3822': 'Behandlung und Beseitigung gefährlicher Abfälle'
+'38220': 'Behandlung und Beseitigung gefährlicher Abfälle'
+'383': 'Rückgewinnung'
+'3831': 'Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren'
+'38310': 'Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren'
+'3832': 'Rückgewinnung sortierter Werkstoffe'
+'38320': 'Rückgewinnung sortierter Werkstoffe'

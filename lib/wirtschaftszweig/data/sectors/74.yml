@@ -1,18 +1,18 @@
 ---
-74  Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten  
-74.1  Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design   
-74.10 Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design  7410
-74.10.1 Industrie-, Produkt- und Mode-Design  
-74.10.2 Grafik- und Kommunikationsdesign  
-74.10.3 Interior Design und Raumgestaltung  
-74.2  Fotografie und Fotolabors  
-74.20 Fotografie und Fotolabors 7420
-74.20.1 Fotografie  
-74.20.2 Fotolabors  
-74.3  Übersetzen und Dolmetschen   
-74.30 Übersetzen und Dolmetschen  7490*
-74.30.1 Übersetzen  
-74.30.2 Dolmetschen 
-74.9  Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.   
-74.90 Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.  7490*
-74.90.0 Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.  
+'74': 'Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten'
+'741': 'Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design'
+'7410': 'Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design'
+'74101': 'Industrie-, Produkt- und Mode-Design'
+'74102': 'Grafik- und Kommunikationsdesign'
+'74103': 'Interior Design und Raumgestaltung'
+'742': 'Fotografie und Fotolabors'
+'7420': 'Fotografie und Fotolabors'
+'74201': 'Fotografie'
+'74202': 'Fotolabors'
+'743': 'Übersetzen und Dolmetschen'
+'7430': 'Übersetzen und Dolmetschen'
+'74301': 'Übersetzen'
+'74302': 'Dolmetschen'
+'749': 'Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.'
+'7490': 'Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.'
+'74900': 'Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.'

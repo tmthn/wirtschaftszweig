@@ -1,10 +1,10 @@
 ---
-73  Werbung und Marktforschung   
-73.1  Werbung  
-73.11 Werbeagenturen  7310*
-73.11.0 Werbeagenturen  
-73.12 Vermarktung und Vermittlung von Werbezeiten und Werbeflächen  7310*
-73.12.0 Vermarktung und Vermittlung von Werbezeiten und Werbeflächen  
-73.2  Markt- und Meinungsforschung   
-73.20 Markt- und Meinungsforschung  7320
-73.20.0 Markt- und Meinungsforschung  
+'73': 'Werbung und Marktforschung'
+'731': 'Werbung'
+'7311': 'Werbeagenturen'
+'73110': 'Werbeagenturen'
+'7312': 'Vermarktung und Vermittlung von Werbezeiten und Werbeflächen'
+'73120': 'Vermarktung und Vermittlung von Werbezeiten und Werbeflächen'
+'732': 'Markt- und Meinungsforschung'
+'7320': 'Markt- und Meinungsforschung'
+'73200': 'Markt- und Meinungsforschung'

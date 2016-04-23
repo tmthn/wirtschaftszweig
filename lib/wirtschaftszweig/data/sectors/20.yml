@@ -1,40 +1,40 @@
 ---
-20  Herstellung von chemischen Erzeugnissen  
-20.1  Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen   
-20.11 Herstellung von Industriegasen  2011*
-20.11.0 Herstellung von Industriegasen  
-20.12 Herstellung von Farbstoffen und Pigmenten 2011*
-20.12.0 Herstellung von Farbstoffen und Pigmenten 
-20.13 Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien  2011*
-20.13.0 Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien  
-20.14 Herstellung von sonstigen organischen Grundstoffen und Chemikalien  2011*
-20.14.0 Herstellung von sonstigen organischen Grundstoffen und Chemikalien  
-20.15 Herstellung von Düngemitteln und Stickstoffverbindungen 2012
-20.15.0 Herstellung von Düngemitteln und Stickstoffverbindungen 
-20.16 Herstellung von Kunststoffen in Primärformen  2013*
-20.16.0 Herstellung von Kunststoffen in Primärformen  
-20.17 Herstellung von synthetischem Kautschuk in Primärformen 2013*
-20.17.0 Herstellung von synthetischem Kautschuk in Primärformen 
-20.2  Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln   
-20.20 Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln  2021
-20.20.0 Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln  
-20.3  Herstellung von Anstrichmitteln, Druckfarben und Kitten  
-20.30 Herstellung von Anstrichmitteln, Druckfarben und Kitten 2022
-20.30.0 Herstellung von Anstrichmitteln, Druckfarben und Kitten 
-20.4  Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen  
-20.41 Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln 2023*
-20.41.0 Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln 
-20.42 Herstellung von Körperpflegemitteln und Duftstoffen 2023*
-20.42.0 Herstellung von Körperpflegemitteln und Duftstoffen 
-20.5  Herstellung von sonstigen chemischen Erzeugnissen  
-20.51 Herstellung von pyrotechnischen Erzeugnissen  2029*
-20.51.0 Herstellung von pyrotechnischen Erzeugnissen  
-20.52 Herstellung von Klebstoffen 2029*
-20.52.0 Herstellung von Klebstoffen 
-20.53 Herstellung von etherischen Ölen  2029*
-20.53.0 Herstellung von etherischen Ölen  
-20.59 Herstellung von sonstigen chemischen Erzeugnissen a. n. g.  2029*
-20.59.0 Herstellung von sonstigen chemischen Erzeugnissen a. n. g.  
-20.6  Herstellung von Chemiefasern   
-20.60 Herstellung von Chemiefasern  2030
-20.60.0 Herstellung von Chemiefasern  
+'20': 'Herstellung von chemischen Erzeugnissen'
+'201': 'Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen'
+'2011': 'Herstellung von Industriegasen'
+'20110': 'Herstellung von Industriegasen'
+'2012': 'Herstellung von Farbstoffen und Pigmenten'
+'20120': 'Herstellung von Farbstoffen und Pigmenten'
+'2013': 'Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien'
+'20130': 'Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien'
+'2014': 'Herstellung von sonstigen organischen Grundstoffen und Chemikalien'
+'20140': 'Herstellung von sonstigen organischen Grundstoffen und Chemikalien'
+'2015': 'Herstellung von Düngemitteln und Stickstoffverbindungen'
+'20150': 'Herstellung von Düngemitteln und Stickstoffverbindungen'
+'2016': 'Herstellung von Kunststoffen in Primärformen'
+'20160': 'Herstellung von Kunststoffen in Primärformen'
+'2017': 'Herstellung von synthetischem Kautschuk in Primärformen'
+'20170': 'Herstellung von synthetischem Kautschuk in Primärformen'
+'202': 'Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln'
+'2020': 'Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln'
+'20200': 'Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln'
+'203': 'Herstellung von Anstrichmitteln, Druckfarben und Kitten'
+'2030': 'Herstellung von Anstrichmitteln, Druckfarben und Kitten'
+'20300': 'Herstellung von Anstrichmitteln, Druckfarben und Kitten'
+'204': 'Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen'
+'2041': 'Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln'
+'20410': 'Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln'
+'2042': 'Herstellung von Körperpflegemitteln und Duftstoffen'
+'20420': 'Herstellung von Körperpflegemitteln und Duftstoffen'
+'205': 'Herstellung von sonstigen chemischen Erzeugnissen'
+'2051': 'Herstellung von pyrotechnischen Erzeugnissen'
+'20510': 'Herstellung von pyrotechnischen Erzeugnissen'
+'2052': 'Herstellung von Klebstoffen'
+'20520': 'Herstellung von Klebstoffen'
+'2053': 'Herstellung von etherischen Ölen'
+'20530': 'Herstellung von etherischen Ölen'
+'2059': 'Herstellung von sonstigen chemischen Erzeugnissen a. n. g.'
+'20590': 'Herstellung von sonstigen chemischen Erzeugnissen a. n. g.'
+'206': 'Herstellung von Chemiefasern'
+'2060': 'Herstellung von Chemiefasern'
+'20600': 'Herstellung von Chemiefasern'

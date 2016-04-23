@@ -1,16 +1,16 @@
 ---
-16  Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)   
-16.1  Säge-, Hobel- und Holzimprägnierwerke  
-16.10 Säge-, Hobel- und Holzimprägnierwerke 1610
-16.10.0 Säge-, Hobel- und Holzimprägnierwerke 
-16.2  Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel)   
-16.21 Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten  1621
-16.21.0 Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten  
-16.22 Herstellung von Parketttafeln 1622*
-16.22.0 Herstellung von Parketttafeln 
-16.23 Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz 1622*
-16.23.0 Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz 
-16.24 Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz  1623
-16.24.0 Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz  
-16.29 Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel) 1629
-16.29.0 Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel) 
+'16': 'Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)'
+'161': 'Säge-, Hobel- und Holzimprägnierwerke'
+'1610': 'Säge-, Hobel- und Holzimprägnierwerke'
+'16100': 'Säge-, Hobel- und Holzimprägnierwerke'
+'162': 'Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel)'
+'1621': 'Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten'
+'16210': 'Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten'
+'1622': 'Herstellung von Parketttafeln'
+'16220': 'Herstellung von Parketttafeln'
+'1623': 'Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz'
+'16230': 'Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz'
+'1624': 'Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz'
+'16240': 'Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz'
+'1629': 'Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel)'
+'16290': 'Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel)'

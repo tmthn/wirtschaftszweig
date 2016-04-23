@@ -1,28 +1,28 @@
 ---
-32  Herstellung von sonstigen Waren  
-32.1  Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen   
-32.11 Herstellung von Münzen  3211*
-32.11.0 Herstellung von Münzen  
-32.12 Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck) 3211*
-32.12.0 Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck) 
-32.13 Herstellung von Fantasieschmuck 3212
-32.13.0 Herstellung von Fantasieschmuck 
-32.2  Herstellung von Musikinstrumenten  
-32.20 Herstellung von Musikinstrumenten 3220
-32.20.0 Herstellung von Musikinstrumenten 
-32.3  Herstellung von Sportgeräten   
-32.30 Herstellung von Sportgeräten  3230
-32.30.0 Herstellung von Sportgeräten  
-32.4  Herstellung von Spielwaren   
-32.40 Herstellung von Spielwaren  3240
-32.40.0 Herstellung von Spielwaren  
-32.5  Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien  
-32.50 Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien 3250
-32.50.1 Herstellung von medizintechnischen Apparaten und Materialien a. n. g. 
-32.50.2 Herstellung von orthopädischen Erzeugnissen 
-32.50.3 Zahntechnische Laboratorien 
-32.9  Herstellung von Erzeugnissen a. n. g.  
-32.91 Herstellung von Besen und Bürsten 3290*
-32.91.0 Herstellung von Besen und Bürsten 
-32.99 Herstellung von sonstigen Erzeugnissen a. n. g. 3290*
-32.99.0 Herstellung von sonstigen Erzeugnissen a. n. g. 
+'32': 'Herstellung von sonstigen Waren'
+'321': 'Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen'
+'3211': 'Herstellung von Münzen'
+'32110': 'Herstellung von Münzen'
+'3212': 'Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)'
+'32120': 'Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck)'
+'3213': 'Herstellung von Fantasieschmuck'
+'32130': 'Herstellung von Fantasieschmuck'
+'322': 'Herstellung von Musikinstrumenten'
+'3220': 'Herstellung von Musikinstrumenten'
+'32200': 'Herstellung von Musikinstrumenten'
+'323': 'Herstellung von Sportgeräten'
+'3230': 'Herstellung von Sportgeräten'
+'32300': 'Herstellung von Sportgeräten'
+'324': 'Herstellung von Spielwaren'
+'3240': 'Herstellung von Spielwaren'
+'32400': 'Herstellung von Spielwaren'
+'325': 'Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien'
+'3250': 'Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien'
+'32501': 'Herstellung von medizintechnischen Apparaten und Materialien a. n. g.'
+'32502': 'Herstellung von orthopädischen Erzeugnissen'
+'32503': 'Zahntechnische Laboratorien'
+'329': 'Herstellung von Erzeugnissen a. n. g.'
+'3291': 'Herstellung von Besen und Bürsten'
+'32910': 'Herstellung von Besen und Bürsten'
+'3299': 'Herstellung von sonstigen Erzeugnissen a. n. g.'
+'32990': 'Herstellung von sonstigen Erzeugnissen a. n. g.'

@@ -1,6 +1,6 @@
 ---
-37  Abwasserentsorgung   
-37.0  Abwasserentsorgung   
-37.00 Abwasserentsorgung  3700
-37.00.1 Betrieb der Sammelkanalisation  
-37.00.2 Betrieb von Kläranlagen 
+'37': 'Abwasserentsorgung'
+'370': 'Abwasserentsorgung'
+'3700': 'Abwasserentsorgung'
+'37001': 'Betrieb der Sammelkanalisation'
+'37002': 'Betrieb von Kläranlagen'

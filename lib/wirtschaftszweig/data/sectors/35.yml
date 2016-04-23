@@ -1,25 +1,25 @@
 ---
-35  Energieversorgung  
-35.1  Elektrizitätsversorgung  
-35.11 Elektrizitätserzeugung  3510*
-35.11.1 Elektrizitätserzeugung ohne Verteilung  
-35.11.2 Elektrizitätserzeugung mit Fremdbezug zur Verteilung  
-35.11.3 Elektrizitätserzeugung ohne Fremdbezug zur Verteilung 
-35.12 Elektrizitätsübertragung  3510*
-35.12.0 Elektrizitätsübertragung  
-35.13 Elektrizitätsverteilung 3510*
-35.13.0 Elektrizitätsverteilung 
-35.14 Elektrizitätshandel 3510*
-35.14.0 Elektrizitätshandel 
-35.2  Gasversorgung  
-35.21 Gaserzeugung  3520*
-35.21.1 Gaserzeugung ohne Verteilung  
-35.21.2 Gaserzeugung mit Fremdbezug zur Verteilung  
-35.21.3 Gaserzeugung ohne Fremdbezug zur Verteilung 
-35.22 Gasverteilung durch Rohrleitungen 3520*
-35.22.0 Gasverteilung durch Rohrleitungen 
-35.23 Gashandel durch Rohrleitungen 3520*
-35.23.0 Gashandel durch Rohrleitungen 
-35.3  Wärme- und Kälteversorgung   
-35.30 Wärme- und Kälteversorgung  3530
-35.30.0 Wärme- und Kälteversorgung  
+'35': 'Energieversorgung'
+'351': 'Elektrizitätsversorgung'
+'3511': 'Elektrizitätserzeugung'
+'35111': 'Elektrizitätserzeugung ohne Verteilung'
+'35112': 'Elektrizitätserzeugung mit Fremdbezug zur Verteilung'
+'35113': 'Elektrizitätserzeugung ohne Fremdbezug zur Verteilung'
+'3512': 'Elektrizitätsübertragung'
+'35120': 'Elektrizitätsübertragung'
+'3513': 'Elektrizitätsverteilung'
+'35130': 'Elektrizitätsverteilung'
+'3514': 'Elektrizitätshandel'
+'35140': 'Elektrizitätshandel'
+'352': 'Gasversorgung'
+'3521': 'Gaserzeugung'
+'35211': 'Gaserzeugung ohne Verteilung'
+'35212': 'Gaserzeugung mit Fremdbezug zur Verteilung'
+'35213': 'Gaserzeugung ohne Fremdbezug zur Verteilung'
+'3522': 'Gasverteilung durch Rohrleitungen'
+'35220': 'Gasverteilung durch Rohrleitungen'
+'3523': 'Gashandel durch Rohrleitungen'
+'35230': 'Gashandel durch Rohrleitungen'
+'353': 'Wärme- und Kälteversorgung'
+'3530': 'Wärme- und Kälteversorgung'
+'35300': 'Wärme- und Kälteversorgung'

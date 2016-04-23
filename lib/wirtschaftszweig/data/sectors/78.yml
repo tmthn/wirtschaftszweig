@@ -1,11 +1,11 @@
 ---
-78  Vermittlung und Überlassung von Arbeitskräften   
-78.1  Vermittlung von Arbeitskräften   
-78.10 Vermittlung von Arbeitskräften  7810
-78.10.0 Vermittlung von Arbeitskräften  
-78.2  Befristete Überlassung von Arbeitskräften  
-78.20 Befristete Überlassung von Arbeitskräften 7820
-78.20.0 Befristete Überlassung von Arbeitskräften 
-78.3  Sonstige Überlassung von Arbeitskräften  
-78.30 Sonstige Überlassung von Arbeitskräften 7830
-78.30.0 Sonstige Überlassung von Arbeitskräften 
+'78': 'Vermittlung und Überlassung von Arbeitskräften'
+'781': 'Vermittlung von Arbeitskräften'
+'7810': 'Vermittlung von Arbeitskräften'
+'78100': 'Vermittlung von Arbeitskräften'
+'782': 'Befristete Überlassung von Arbeitskräften'
+'7820': 'Befristete Überlassung von Arbeitskräften'
+'78200': 'Befristete Überlassung von Arbeitskräften'
+'783': 'Sonstige Überlassung von Arbeitskräften'
+'7830': 'Sonstige Überlassung von Arbeitskräften'
+'78300': 'Sonstige Überlassung von Arbeitskräften'

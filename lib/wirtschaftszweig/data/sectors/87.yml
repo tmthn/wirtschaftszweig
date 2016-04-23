@@ -1,14 +1,14 @@
 ---
-87  Heime (ohne Erholungs- und Ferienheime)  
-87.1  Pflegeheime  
-87.10 Pflegeheime 8710
-87.10.0 Pflegeheime 
-87.2  Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.   
-87.20 Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.  8720
-87.20.0 Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.  
-87.3  Altenheime; Alten- und Behindertenwohnheime  
-87.30 Altenheime; Alten- und Behindertenwohnheime 8730
-87.30.0 Altenheime; Alten- und Behindertenwohnheime 
-87.9  Sonstige Heime (ohne Erholungs- und Ferienheime)   
-87.90 Sonstige Heime (ohne Erholungs- und Ferienheime)  8790
-87.90.0 Sonstige Heime (ohne Erholungs- und Ferienheime)  
+'87': 'Heime (ohne Erholungs- und Ferienheime)'
+'871': 'Pflegeheime'
+'8710': 'Pflegeheime'
+'87100': 'Pflegeheime'
+'872': 'Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.'
+'8720': 'Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.'
+'87200': 'Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.'
+'873': 'Altenheime; Alten- und Behindertenwohnheime'
+'8730': 'Altenheime; Alten- und Behindertenwohnheime'
+'87300': 'Altenheime; Alten- und Behindertenwohnheime'
+'879': 'Sonstige Heime (ohne Erholungs- und Ferienheime)'
+'8790': 'Sonstige Heime (ohne Erholungs- und Ferienheime)'
+'87900': 'Sonstige Heime (ohne Erholungs- und Ferienheime)'

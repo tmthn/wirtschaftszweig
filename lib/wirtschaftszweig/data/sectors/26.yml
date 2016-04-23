@@ -1,33 +1,33 @@
 ---
-26  Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen   
-26.1  Herstellung von elektronischen Bauelementen und Leiterplatten  
-26.11 Herstellung von elektronischen Bauelementen 2610*
-26.11.1 Herstellung von Solarzellen und Solarmodulen  
-26.11.9 Herstellung von sonstigen elektronischen Bauelementen 
-26.12 Herstellung von bestückten Leiterplatten  2610*
-26.12.0 Herstellung von bestückten Leiterplatten  
-26.2  Herstellung von Datenverarbeitungsgeräten und peripheren Geräten   
-26.20 Herstellung von Datenverarbeitungsgeräten und peripheren Geräten  2620
-26.20.0 Herstellung von Datenverarbeitungsgeräten und peripheren Geräten  
-26.3  Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik  
-26.30 Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik 2630
-26.30.0 Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik 
-26.4  Herstellung von Geräten der Unterhaltungselektronik  
-26.40 Herstellung von Geräten der Unterhaltungselektronik 2640
-26.40.0 Herstellung von Geräten der Unterhaltungselektronik 
-26.5  Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren   
-26.51 Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen 2651
-26.51.1 Herstellung von elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen  
-26.51.2 Herstellung von nicht elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen  
-26.51.3 Herstellung von Prüfmaschinen 
-26.52 Herstellung von Uhren 2652
-26.52.0 Herstellung von Uhren 
-26.6  Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten  
-26.60 Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten 2660
-26.60.0 Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten 
-26.7  Herstellung von optischen und fotografischen Instrumenten und Geräten  
-26.70 Herstellung von optischen und fotografischen Instrumenten und Geräten 2670
-26.70.0 Herstellung von optischen und fotografischen Instrumenten und Geräten 
-26.8  Herstellung von magnetischen und optischen Datenträgern  
-26.80 Herstellung von magnetischen und optischen Datenträgern 2680
-26.80.0 Herstellung von magnetischen und optischen Datenträgern 
+'26': 'Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen'
+'261': 'Herstellung von elektronischen Bauelementen und Leiterplatten'
+'2611': 'Herstellung von elektronischen Bauelementen'
+'26111': 'Herstellung von Solarzellen und Solarmodulen'
+'26119': 'Herstellung von sonstigen elektronischen Bauelementen'
+'2612': 'Herstellung von bestückten Leiterplatten'
+'26120': 'Herstellung von bestückten Leiterplatten'
+'262': 'Herstellung von Datenverarbeitungsgeräten und peripheren Geräten'
+'2620': 'Herstellung von Datenverarbeitungsgeräten und peripheren Geräten'
+'26200': 'Herstellung von Datenverarbeitungsgeräten und peripheren Geräten'
+'263': 'Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik'
+'2630': 'Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik'
+'26300': 'Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik'
+'264': 'Herstellung von Geräten der Unterhaltungselektronik'
+'2640': 'Herstellung von Geräten der Unterhaltungselektronik'
+'26400': 'Herstellung von Geräten der Unterhaltungselektronik'
+'265': 'Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren'
+'2651': 'Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen'
+'26511': 'Herstellung von elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen'
+'26512': 'Herstellung von nicht elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen'
+'26513': 'Herstellung von Prüfmaschinen'
+'2652': 'Herstellung von Uhren'
+'26520': 'Herstellung von Uhren'
+'266': 'Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten'
+'2660': 'Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten'
+'26600': 'Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten'
+'267': 'Herstellung von optischen und fotografischen Instrumenten und Geräten'
+'2670': 'Herstellung von optischen und fotografischen Instrumenten und Geräten'
+'26700': 'Herstellung von optischen und fotografischen Instrumenten und Geräten'
+'268': 'Herstellung von magnetischen und optischen Datenträgern'
+'2680': 'Herstellung von magnetischen und optischen Datenträgern'
+'26800': 'Herstellung von magnetischen und optischen Datenträgern'

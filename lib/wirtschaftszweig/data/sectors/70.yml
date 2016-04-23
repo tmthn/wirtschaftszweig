@@ -1,11 +1,11 @@
 ---
-70  Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung   
-70.1  Verwaltung und Führung von Unternehmen und Betrieben   
-70.10 Verwaltung und Führung von Unternehmen und Betrieben  7010
-70.10.1 Managementtätigkeiten von Holdinggesellschaften 
-70.10.9 Sonstige Verwaltung und Führung von Unternehmen und Betrieben 
-70.2  Public-Relations- und Unternehmensberatung   
-70.21 Public-Relations-Beratung 7020*
-70.21.0 Public-Relations-Beratung 
-70.22 Unternehmensberatung  7020*
-70.22.0 Unternehmensberatung  
+'70': 'Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung'
+'701': 'Verwaltung und Führung von Unternehmen und Betrieben'
+'7010': 'Verwaltung und Führung von Unternehmen und Betrieben'
+'70101': 'Managementtätigkeiten von Holdinggesellschaften'
+'70109': 'Sonstige Verwaltung und Führung von Unternehmen und Betrieben'
+'702': 'Public-Relations- und Unternehmensberatung'
+'7021': 'Public-Relations-Beratung'
+'70210': 'Public-Relations-Beratung'
+'7022': 'Unternehmensberatung'
+'70220': 'Unternehmensberatung'

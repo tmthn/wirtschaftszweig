@@ -1,56 +1,54 @@
 ---
-28  Maschinenbau   
-28.1  Herstellung von nicht wirtschaftszweigspezifischen Maschinen   
-28.11 Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)  2811
-28.11.0 Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)  
-28.12 Herstellung von hydraulischen und pneumatischen Komponenten und Systemen  2812
-28.12.0 Herstellung von hydraulischen und pneumatischen Komponenten und Systemen  
-28.13 Herstellung von Pumpen und Kompressoren a. n. g.  2813*
-28.13.0 Herstellung von Pumpen und Kompressoren a. n. g.  
-28.14 Herstellung von Armaturen a. n. g.  2813*
-28.14.0 Herstellung von Armaturen a. n. g.  
-28.15 Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen 2814
-28.15.0 Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen 
-28.2  Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen   
-28.21 Herstellung von Öfen und Brennern 2815
-28.21.1 Herstellung von Solarwärmekollektoren 
-28.21.9 Herstellung von sonstigen Öfen und Brennern 
-28.22 Herstellung von Hebezeugen und Fördermitteln  2816
-28.22.0 Herstellung von Hebezeugen und Fördermitteln  
-28.23 Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)  2817
-28.23.0 Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)  
-28.24 Herstellung von handgeführten Werkzeugen mit Motorantrieb 2818
-28.24.0 Herstellung von handgeführten Werkzeugen mit Motorantrieb 
-28.25 Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt 2819*
-28.25.0 Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt 
-28.29 Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g. 2819*
-28.29.0 Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g. 
-28.3  Herstellung von land- und forstwirtschaftlichen Maschinen  
-28.30 Herstellung von land- und forstwirtschaftlichen Maschinen 2821
-28.30.0 Herstellung von land- und forstwirtschaftlichen Maschinen 
-28.4  Herstellung von Werkzeugmaschinen  
-28.41 Herstellung von Werkzeugmaschinen für die Metallbearbeitung 2822*
-28.41.0 Herstellung von Werkzeugmaschinen für die Metallbearbeitung 
-28.49 Herstellung von sonstigen Werkzeugmaschinen   2822*
-28.49.1 Herstellung von Werkzeugmaschinen zur Bearbeitung von Steinen, Beton und sonstigen mineralischen Stoffen  
-28.49.2 Herstellung von Werkzeugmaschinen zur Bearbeitung von sonstigen harten Stoffen  
-28.49.3 Herstellung von Maschinenspannzeugen und sonstigem Zubehör für Werkzeugmaschinen  
-28.49.9 Herstellung von sonstigen Werkzeugmaschinen a. n. g.  
-28.9  Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige   
-28.91 Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen 2823
-28.91.0 Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen 
-28.92 Herstellung von Bergwerks-, Bau- und Baustoffmaschinen  2824
-28.92.1 Herstellung von Bergwerksmaschinen  
-28.92.2 Herstellung von Bau- und Baustoffmaschinen  
-28.93 Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung 2825
-28.93.0 Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung 
-28.94 Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung  2826
-28.94.0 Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung  
-28.95 "Herstellung von Maschinen für die Papiererzeugung und 
--verarbeitung"  2829*
-28.95.0 "Herstellung von Maschinen für die Papiererzeugung und 
--verarbeitung"  
-28.96 Herstellung von Maschinen für die Verarbeitung  von Kunststoffen und Kautschuk  2829*
-28.96.0 Herstellung von Maschinen für die Verarbeitung  von Kunststoffen und Kautschuk  
-28.99 Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g. 2829*
-28.99.0 Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g. 
+'28': 'Maschinenbau'
+'281': 'Herstellung von nicht wirtschaftszweigspezifischen Maschinen'
+'2811': 'Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)'
+'28110': 'Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge)'
+'2812': 'Herstellung von hydraulischen und pneumatischen Komponenten und Systemen'
+'28120': 'Herstellung von hydraulischen und pneumatischen Komponenten und Systemen'
+'2813': 'Herstellung von Pumpen und Kompressoren a. n. g.'
+'28130': 'Herstellung von Pumpen und Kompressoren a. n. g.'
+'2814': 'Herstellung von Armaturen a. n. g.'
+'28140': 'Herstellung von Armaturen a. n. g.'
+'2815': 'Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen'
+'28150': 'Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen'
+'282': 'Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen'
+'2821': 'Herstellung von Öfen und Brennern'
+'28211': 'Herstellung von Solarwärmekollektoren'
+'28219': 'Herstellung von sonstigen Öfen und Brennern'
+'2822': 'Herstellung von Hebezeugen und Fördermitteln'
+'28220': 'Herstellung von Hebezeugen und Fördermitteln'
+'2823': 'Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)'
+'28230': 'Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte)'
+'2824': 'Herstellung von handgeführten Werkzeugen mit Motorantrieb'
+'28240': 'Herstellung von handgeführten Werkzeugen mit Motorantrieb'
+'2825': 'Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt'
+'28250': 'Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt'
+'2829': 'Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g.'
+'28290': 'Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g.'
+'283': 'Herstellung von land- und forstwirtschaftlichen Maschinen'
+'2830': 'Herstellung von land- und forstwirtschaftlichen Maschinen'
+'28300': 'Herstellung von land- und forstwirtschaftlichen Maschinen'
+'284': 'Herstellung von Werkzeugmaschinen'
+'2841': 'Herstellung von Werkzeugmaschinen für die Metallbearbeitung'
+'28410': 'Herstellung von Werkzeugmaschinen für die Metallbearbeitung'
+'2849': 'Herstellung von sonstigen Werkzeugmaschinen'
+'28491': 'Herstellung von Werkzeugmaschinen zur Bearbeitung von Steinen, Beton und sonstigen mineralischen Stoffen'
+'28492': 'Herstellung von Werkzeugmaschinen zur Bearbeitung von sonstigen harten Stoffen'
+'28493': 'Herstellung von Maschinenspannzeugen und sonstigem Zubehör für Werkzeugmaschinen'
+'28499': 'Herstellung von sonstigen Werkzeugmaschinen a. n. g.'
+'289': 'Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige'
+'2891': 'Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen'
+'28910': 'Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen'
+'2892': 'Herstellung von Bergwerks-, Bau- und Baustoffmaschinen'
+'28921': 'Herstellung von Bergwerksmaschinen'
+'28922': 'Herstellung von Bau- und Baustoffmaschinen'
+'2893': 'Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung'
+'28930': 'Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung'
+'2894': 'Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung'
+'28940': 'Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung'
+'2895': 'Herstellung von Maschinen für die Papiererzeugung und verarbeitung'
+'28950': 'Herstellung von Maschinen für die Papiererzeugung und verarbeitung'
+'2896': 'Herstellung von Maschinen für die Verarbeitung  von Kunststoffen und Kautschuk'
+'28960': 'Herstellung von Maschinen für die Verarbeitung  von Kunststoffen und Kautschuk'
+'2899': 'Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g.'
+'28990': 'Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g.'

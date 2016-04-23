@@ -1,25 +1,25 @@
 ---
-49  Landverkehr und Transport in Rohrfernleitungen   
-49.1  Personenbeförderung im Eisenbahnfernverkehr  
-49.10 Personenbeförderung im Eisenbahnfernverkehr   4911
-49.10.0 Personenbeförderung im Eisenbahnfernverkehr   
-49.2  Güterbeförderung im Eisenbahnverkehr   
-49.20 Güterbeförderung im Eisenbahnverkehr  4912
-49.20.0 Güterbeförderung im Eisenbahnverkehr  
-49.3  Sonstige Personenbeförderung im Landverkehr  
-49.31 Personenbeförderung im Nahverkehr zu Lande (ohne Taxis) 4921
-49.31.0 Personenbeförderung im Nahverkehr zu Lande (ohne Taxis) 
-49.32 Betrieb von Taxis 4922*
-49.32.0 Betrieb von Taxis 
-49.39 Sonstige Personenbeförderung im Landverkehr a. n. g.  4922*
-49.39.1 Personenbeförderung im Omnibus-Linienfernverkehr  
-49.39.2 Personenbeförderung im Omnibus-Gelegenheitsverkehr  
-49.39.9 Personenbeförderung im Landverkehr a. n. g. 
-49.4  Güterbeförderung im Straßenverkehr, Umzugstransporte   
-49.41 Güterbeförderung im Straßenverkehr  4923*
-49.41.0 Güterbeförderung im Straßenverkehr  
-49.42 Umzugstransporte  4923*
-49.42.0 Umzugstransporte  
-49.5  Transport in Rohrfernleitungen   
-49.50 Transport in Rohrfernleitungen  4930
-49.50.0 Transport in Rohrfernleitungen  
+'49': 'Landverkehr und Transport in Rohrfernleitungen'
+'491': 'Personenbeförderung im Eisenbahnfernverkehr'
+'4910': 'Personenbeförderung im Eisenbahnfernverkehr'
+'49100': 'Personenbeförderung im Eisenbahnfernverkehr'
+'492': 'Güterbeförderung im Eisenbahnverkehr'
+'4920': 'Güterbeförderung im Eisenbahnverkehr'
+'49200': 'Güterbeförderung im Eisenbahnverkehr'
+'493': 'Sonstige Personenbeförderung im Landverkehr'
+'4931': 'Personenbeförderung im Nahverkehr zu Lande (ohne Taxis)'
+'49310': 'Personenbeförderung im Nahverkehr zu Lande (ohne Taxis)'
+'4932': 'Betrieb von Taxis'
+'49320': 'Betrieb von Taxis'
+'4939': 'Sonstige Personenbeförderung im Landverkehr a. n. g.'
+'49391': 'Personenbeförderung im Omnibus-Linienfernverkehr'
+'49392': 'Personenbeförderung im Omnibus-Gelegenheitsverkehr'
+'49399': 'Personenbeförderung im Landverkehr a. n. g.'
+'494': 'Güterbeförderung im Straßenverkehr, Umzugstransporte'
+'4941': 'Güterbeförderung im Straßenverkehr'
+'49410': 'Güterbeförderung im Straßenverkehr'
+'4942': 'Umzugstransporte'
+'49420': 'Umzugstransporte'
+'495': 'Transport in Rohrfernleitungen'
+'4950': 'Transport in Rohrfernleitungen'
+'49500': 'Transport in Rohrfernleitungen'

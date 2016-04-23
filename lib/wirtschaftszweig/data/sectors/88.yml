@@ -1,11 +1,11 @@
 ---
-88  Sozialwesen (ohne Heime)   
-88.1  Soziale Betreuung älterer Menschen und Behinderter   
-88.10 Soziale Betreuung älterer Menschen und Behinderter  8810
-88.10.1 Ambulante soziale Dienste 
-88.10.2 Sonstige soziale Betreuung älterer Menschen und Behinderter 
-88.9  Sonstiges Sozialwesen (ohne Heime)   
-88.91 Tagesbetreuung von Kindern  8890*
-88.91.0 Tagesbetreuung von Kindern  
-88.99 Sonstiges Sozialwesen a. n. g.  8890*
-88.99.0 Sonstiges Sozialwesen a. n. g.  
+'88': 'Sozialwesen (ohne Heime)'
+'881': 'Soziale Betreuung älterer Menschen und Behinderter'
+'8810': 'Soziale Betreuung älterer Menschen und Behinderter'
+'88101': 'Ambulante soziale Dienste'
+'88102': 'Sonstige soziale Betreuung älterer Menschen und Behinderter'
+'889': 'Sonstiges Sozialwesen (ohne Heime)'
+'8891': 'Tagesbetreuung von Kindern'
+'88910': 'Tagesbetreuung von Kindern'
+'8899': 'Sonstiges Sozialwesen a. n. g.'
+'88990': 'Sonstiges Sozialwesen a. n. g.'

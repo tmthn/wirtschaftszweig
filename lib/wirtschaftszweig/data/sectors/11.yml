@@ -1,17 +1,17 @@
 ---
-11  Getränkeherstellung  
-11.0  Getränkeherstellung  
-11.01 Herstellung von Spirituosen 1101
-11.01.0 Herstellung von Spirituosen 
-11.02 Herstellung von Traubenwein 1102*
-11.02.0 Herstellung von Traubenwein 
-11.03 Herstellung von Apfelwein und anderen Fruchtweinen  1102*
-11.03.0 Herstellung von Apfelwein und anderen Fruchtweinen  
-11.04 Herstellung von Wermutwein und sonstigen aromatisierten Weinen  1102*
-11.04.0 Herstellung von Wermutwein und sonstigen aromatisierten Weinen  
-11.05 Herstellung von Bier  1103*
-11.05.0 Herstellung von Bier  
-11.06 Herstellung von Malz  1103*
-11.06.0 Herstellung von Malz  
-11.07 Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer  1104
-11.07.0 Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer  
+'11': 'Getränkeherstellung'
+'110': 'Getränkeherstellung'
+'1101': 'Herstellung von Spirituosen'
+'11010': 'Herstellung von Spirituosen' 
+'1102': 'Herstellung von Traubenwein'
+'11020': 'Herstellung von Traubenwein'
+'1103': 'Herstellung von Apfelwein und anderen Fruchtweinen'
+'11030': 'Herstellung von Apfelwein und anderen Fruchtweinen'
+'1104': 'Herstellung von Wermutwein und sonstigen aromatisierten Weinen'
+'11040': 'Herstellung von Wermutwein und sonstigen aromatisierten Weinen' 
+'1105': 'Herstellung von Bier'
+'11050': 'Herstellung von Bier'  
+'1106': 'Herstellung von Malz'
+'11060': 'Herstellung von Malz'
+'1107': 'Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer'
+'11070': 'Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer'

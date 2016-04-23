@@ -1,6 +1,6 @@
 ---
-75  Veterinärwesen   
-75.0  Veterinärwesen   
-75.00 Veterinärwesen  7500
-75.00.1 Tierarztpraxen  
-75.00.9 Sonstiges Veterinärwesen  
+'75': 'Veterinärwesen'
+'750': 'Veterinärwesen'
+'7500': 'Veterinärwesen'
+'75001': 'Tierarztpraxen'
+'75009': 'Sonstiges Veterinärwesen'

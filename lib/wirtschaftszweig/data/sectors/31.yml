@@ -1,13 +1,13 @@
 ---
-31  Herstellung von Möbeln   
-31.0  Herstellung von Möbeln   
-31.01 Herstellung von Büro- und Ladenmöbeln 3100*
-31.01.1 Herstellung von Büromöbeln  
-31.01.2 Herstellung von Ladenmöbeln und sonstigen Objektmöbeln  
-31.02 Herstellung von Küchenmöbeln  3100*
-31.02.0 Herstellung von Küchenmöbeln  
-31.03 Herstellung von Matratzen 3100*
-31.03.0 Herstellung von Matratzen 
-31.09 Herstellung von sonstigen Möbeln  3100*
-31.09.1 Herstellung von Polstermöbeln 
-31.09.9 Herstellung von sonstigen Möbeln a. n. g. 
+'31': 'Herstellung von Möbeln'
+'310': 'Herstellung von Möbeln'
+'3101': 'Herstellung von Büro- und Ladenmöbeln'
+'31011': 'Herstellung von Büromöbeln'
+'31012': 'Herstellung von Ladenmöbeln und sonstigen Objektmöbeln'
+'3102': 'Herstellung von Küchenmöbeln'
+'31020': 'Herstellung von Küchenmöbeln'
+'3103': 'Herstellung von Matratzen'
+'31030': 'Herstellung von Matratzen'
+'3109': 'Herstellung von sonstigen Möbeln'
+'31091': 'Herstellung von Polstermöbeln'
+'31099': 'Herstellung von sonstigen Möbeln a. n. g.'

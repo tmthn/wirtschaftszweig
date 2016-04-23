@@ -1,16 +1,16 @@
 ---
-71  Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung  
-71.1  Architektur- und Ingenieurbüros  
-71.11 Architekturbüros  7110*
-71.11.1 Architekturbüros für Hochbau  
-71.11.2 Büros für Innenarchitektur  
-71.11.3 Architekturbüros für Orts-, Regional- und Landesplanung 
-71.11.4 Architekturbüros für Garten- und Landschaftsgestaltung  
-71.12 Ingenieurbüros  7110*
-71.12.1 Ingenieurbüros für bautechnische Gesamtplanung  
-71.12.2 Ingenieurbüros für technische Fachplanung und Ingenieurdesign 
-71.12.3 Vermessungsbüros  
-71.12.9 Sonstige Ingenieurbüros 
-71.2  Technische, physikalische und chemische Untersuchung   
-71.20 Technische, physikalische und chemische Untersuchung  7120
-71.20.0 Technische, physikalische und chemische Untersuchung  
+'71': 'Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung'
+'711': 'Architektur- und Ingenieurbüros'
+'7111': 'Architekturbüros'
+'71111': 'Architekturbüros für Hochbau'
+'71112': 'Büros für Innenarchitektur'
+'71113': 'Architekturbüros für Orts-, Regional- und Landesplanung'
+'71114': 'Architekturbüros für Garten- und Landschaftsgestaltung'
+'7112': 'Ingenieurbüros'
+'71121': 'Ingenieurbüros für bautechnische Gesamtplanung'
+'71122': 'Ingenieurbüros für technische Fachplanung und Ingenieurdesign'
+'71123': 'Vermessungsbüros'
+'71129': 'Sonstige Ingenieurbüros'
+'712': 'Technische, physikalische und chemische Untersuchung'
+'7120': 'Technische, physikalische und chemische Untersuchung'
+'71200': 'Technische, physikalische und chemische Untersuchung'

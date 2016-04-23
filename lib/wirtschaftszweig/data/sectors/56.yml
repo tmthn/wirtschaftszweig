@@ -1,21 +1,21 @@
 ---
-56  Gastronomie  
-56.1  Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä.   
-56.10 Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä.  5610
-56.10.1 Restaurants mit herkömmlicher Bedienung 
-56.10.2 Restaurants mit Selbstbedienung 
-56.10.3 Imbissstuben u.Ä. 
-56.10.4 Cafés 
-56.10.5 Eissalons 
-56.2  Caterer und Erbringung sonstiger Verpflegungsdienstleistungen  
-56.21 Event-Caterer 5621
-56.21.0 Event-Caterer 
-56.29 Erbringung sonstiger Verpflegungsdienstleistungen 5629
-56.29.0 Erbringung sonstiger Verpflegungsdienstleistungen 
-56.3  Ausschank von Getränken  
-56.30 Ausschank von Getränken 5630
-56.30.1 Schankwirtschaften  
-56.30.2 Diskotheken und Tanzlokale  
-56.30.3 Bars  
-56.30.4 Vergnügungslokale 
-56.30.9 Sonstige getränkegeprägte Gastronomie 
+'56': 'Gastronomie'
+'561': 'Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä.'
+'5610': 'Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä.'
+'56101': 'Restaurants mit herkömmlicher Bedienung'
+'56102': 'Restaurants mit Selbstbedienung'
+'56103': 'Imbissstuben u.Ä.'
+'56104': 'Cafés'
+'56105': 'Eissalons'
+'562': 'Caterer und Erbringung sonstiger Verpflegungsdienstleistungen'
+'5621': 'Event-Caterer'
+'56210': 'Event-Caterer'
+'5629': 'Erbringung sonstiger Verpflegungsdienstleistungen'
+'56290': 'Erbringung sonstiger Verpflegungsdienstleistungen'
+'563': 'Ausschank von Getränken'
+'5630': 'Ausschank von Getränken'
+'56301': 'Schankwirtschaften'
+'56302': 'Diskotheken und Tanzlokale'
+'56303': 'Bars'
+'56304': 'Vergnügungslokale'
+'56309': 'Sonstige getränkegeprägte Gastronomie'

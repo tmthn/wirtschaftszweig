@@ -1,8 +1,8 @@
 ---
-21  Herstellung von pharmazeutischen Erzeugnissen  
-21.1  Herstellung von pharmazeutischen Grundstoffen  
-21.10 Herstellung von pharmazeutischen Grundstoffen 2100*
-21.10.0 Herstellung von pharmazeutischen Grundstoffen 
-21.2  Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen   
-21.20 Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen  2100*
-21.20.0 Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen  
+'21': 'Herstellung von pharmazeutischen Erzeugnissen'
+'211': 'Herstellung von pharmazeutischen Grundstoffen'
+'2110': 'Herstellung von pharmazeutischen Grundstoffen'
+'21100': 'Herstellung von pharmazeutischen Grundstoffen'
+'212': 'Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen'
+'2120': 'Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen'
+'21200': 'Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen'

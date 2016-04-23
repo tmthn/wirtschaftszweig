@@ -1,8 +1,8 @@
 ---
-09  Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden  
-09.1  Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas   
-09.10 Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas  0910
-09.10.0 Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas  
-09.9  Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden  
-09.90 Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden 0990
-09.90.0 Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden
+'09': 'Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden  '
+'091': 'Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas'
+'0910': 'Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas'
+'09100': 'Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas'
+'099': 'Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden' 
+'0990': 'Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden'
+'09900': 'Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden'

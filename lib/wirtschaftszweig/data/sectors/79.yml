@@ -1,10 +1,10 @@
 ---
-79  Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen   
-79.1  Reisebüros und Reiseveranstalter   
-79.11 Reisebüros  7911
-79.11.0 Reisebüros  
-79.12 Reiseveranstalter 7912
-79.12.0 Reiseveranstalter 
-79.9  Erbringung sonstiger Reservierungsdienstleistungen   
-79.90 Erbringung sonstiger Reservierungsdienstleistungen  7990
-79.90.0 Erbringung sonstiger Reservierungsdienstleistungen  
+'79': 'Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen'
+'791': 'Reisebüros und Reiseveranstalter'
+'7911': 'Reisebüros'
+'79110': 'Reisebüros'
+'7912': 'Reiseveranstalter'
+'79120': 'Reiseveranstalter'
+'799': 'Erbringung sonstiger Reservierungsdienstleistungen'
+'7990': 'Erbringung sonstiger Reservierungsdienstleistungen'
+'79900': 'Erbringung sonstiger Reservierungsdienstleistungen'

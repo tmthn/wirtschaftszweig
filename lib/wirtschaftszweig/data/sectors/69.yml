@@ -1,15 +1,15 @@
 ---
-69  Rechts- und Steuerberatung, Wirtschaftsprüfung   
-69.1  Rechtsberatung   
-69.10 Rechtsberatung  6910
-69.10.1 Rechtsanwaltskanzleien mit Notariat 
-69.10.2 Rechtsanwaltskanzleien ohne Notariat  
-69.10.3 Notariate 
-69.10.4 Patentanwaltskanzleien  
-69.10.9 Erbringung sonstiger juristischer Dienstleistungen a. n. g.   
-69.2  Wirtschaftsprüfung und Steuerberatung; Buchführung   
-69.20 Wirtschaftsprüfung und Steuerberatung; Buchführung  6920
-69.20.1 Praxen von Wirtschaftsprüferinnen und -prüfern, Wirtschaftsprüfungsgesellschaften 
-69.20.2 Praxen von vereidigten Buchprüferinnen und -prüfern, Buchprüfungsgesellschaften 
-69.20.3 Praxen von Steuerbevollmächtigten, Steuerberaterinnen und -beratern, Steuerberatungsgesellschaften  
-69.20.4 Buchführung (ohne Datenverarbeitungsdienste)  
+'69': 'Rechts- und Steuerberatung, Wirtschaftsprüfung'
+'691': 'Rechtsberatung'
+'6910': 'Rechtsberatung'
+'69101': 'Rechtsanwaltskanzleien mit Notariat'
+'69102': 'Rechtsanwaltskanzleien ohne Notariat'
+'69103': 'Notariate'
+'69104': 'Patentanwaltskanzleien'
+'69109': 'Erbringung sonstiger juristischer Dienstleistungen a. n. g.'
+'692': 'Wirtschaftsprüfung und Steuerberatung; Buchführung'
+'6920': 'Wirtschaftsprüfung und Steuerberatung; Buchführung'
+'69201': 'Praxen von Wirtschaftsprüferinnen und -prüfern, Wirtschaftsprüfungsgesellschaften'
+'69202': 'Praxen von vereidigten Buchprüferinnen und -prüfern, Buchprüfungsgesellschaften'
+'69203': 'Praxen von Steuerbevollmächtigten, Steuerberaterinnen und -beratern, Steuerberatungsgesellschaften'
+'69204': 'Buchführung (ohne Datenverarbeitungsdienste)'

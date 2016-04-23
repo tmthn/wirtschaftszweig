@@ -1,19 +1,19 @@
 ---
-81  Gebäudebetreuung; Garten- und Landschaftsbau   
-81.1  Hausmeisterdienste   
-81.10 Hausmeisterdienste  8110
-81.10.0 Hausmeisterdienste  
-81.2  Reinigung von Gebäuden, Straßen und Verkehrsmitteln  
-81.21 Allgemeine Gebäudereinigung 8121
-81.21.0 Allgemeine Gebäudereinigung 
-81.22 Spezielle Reinigung von Gebäuden und  Reinigung von Maschinen 8129*
-81.22.1 Schornsteinreinigung  
-81.22.9 Sonstige spezielle Reinigung von Gebäuden und Maschinen 
-81.29 Reinigung a. n. g.  8129*
-81.29.1 Reinigung von Verkehrsmitteln 
-81.29.2 Desinfektion und Schädlingsbekämpfung 
-81.29.9 Sonstige Reinigung a. n. g. 
-81.3  Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen   
-81.30 Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen  8130
-81.30.1 Garten- und Landschaftsbau  
-81.30.9 Erbringung von sonstigen gärtnerischen Dienstleistungen 
+'81': 'Gebäudebetreuung; Garten- und Landschaftsbau'
+'811': 'Hausmeisterdienste'
+'8110': 'Hausmeisterdienste'
+'81100': 'Hausmeisterdienste'
+'812': 'Reinigung von Gebäuden, Straßen und Verkehrsmitteln'
+'8121': 'Allgemeine Gebäudereinigung'
+'81210': 'Allgemeine Gebäudereinigung'
+'8122': 'Spezielle Reinigung von Gebäuden und  Reinigung von Maschinen'
+'81221': 'Schornsteinreinigung'
+'81229': 'Sonstige spezielle Reinigung von Gebäuden und Maschinen'
+'8129': 'Reinigung a. n. g.'
+'81291': 'Reinigung von Verkehrsmitteln'
+'81292': 'Desinfektion und Schädlingsbekämpfung'
+'81299': 'Sonstige Reinigung a. n. g.'
+'813': 'Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen'
+'8130': 'Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen'
+'81301': 'Garten- und Landschaftsbau'
+'81309': 'Erbringung von sonstigen gärtnerischen Dienstleistungen'

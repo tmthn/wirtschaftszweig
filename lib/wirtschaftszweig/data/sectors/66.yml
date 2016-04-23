@@ -1,19 +1,19 @@
 ---
-66  Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten   
-66.1  Mit Finanzdienstleistungen verbundene Tätigkeiten  
-66.11 Effekten- und Warenbörsen 6611
-66.11.0 Effekten- und Warenbörsen 
-66.12 Effekten- und Warenhandel 6612
-66.12.0 Effekten- und Warenhandel 
-66.19 Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten  6619
-66.19.0 Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten  
-66.2  Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten  
-66.21 Risiko- und Schadensbewertung 6621
-66.21.0 Risiko- und Schadensbewertung 
-66.22 Tätigkeit von Versicherungsmaklerinnen und -maklern 6622
-66.22.0 Tätigkeit von Versicherungsmaklerinnen und -maklern 
-66.29 Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten  6629
-66.29.0 Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten  
-66.3  Fondsmanagement  
-66.30 Fondsmanagement 6630
-66.30.0 Fondsmanagement 
+'66': 'Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten'
+'661': 'Mit Finanzdienstleistungen verbundene Tätigkeiten'
+'6611': 'Effekten- und Warenbörsen'
+'66110': 'Effekten- und Warenbörsen'
+'6612': 'Effekten- und Warenhandel'
+'66120': 'Effekten- und Warenhandel'
+'6619': 'Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten'
+'66190': 'Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten'
+'662': 'Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten'
+'6621': 'Risiko- und Schadensbewertung'
+'66210': 'Risiko- und Schadensbewertung'
+'6622': 'Tätigkeit von Versicherungsmaklerinnen und -maklern'
+'66220': 'Tätigkeit von Versicherungsmaklerinnen und -maklern'
+'6629': 'Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten'
+'66290': 'Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten'
+'663': 'Fondsmanagement'
+'6630': 'Fondsmanagement'
+'66300': 'Fondsmanagement'
